@@ -1,7 +1,7 @@
-console.log("hello world");
+console.log('hello world')
 
 function add(a: number, b: number) {
-  return a + b;
+  return a + b
 }
 
-export { add };
+export { add }
